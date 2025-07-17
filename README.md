@@ -2,7 +2,8 @@
 - 👀 I’m interested in Culinary Arts
 - 🌱 I’m currently learning Python & AI Engenering 
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me: DervanisBusiness@gmail.com
+- 📫 How to reach me: Justin.mccafferty2004@gmail.com
+  
 
 <!---
 Nekkone/Nekkone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
